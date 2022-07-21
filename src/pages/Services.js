@@ -1,7 +1,6 @@
 import { MDBCol, MDBContainer, MDBRow } from 'mdb-react-ui-kit';
 import React from 'react';
 import Cards from '../components/ServicesCards'
-import TestimonialCarousel from '../components/TestimonialCarousel';
 
 import TherapyShed from '../images/therapy_shed.jpeg'
 function Services() 
