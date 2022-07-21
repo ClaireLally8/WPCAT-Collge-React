@@ -24,11 +24,6 @@ function Services()
                 <Cards />
             </MDBCol>
         </MDBRow>
-        <MDBRow>
-            <MDBCol sm="12" md="12" lg="8" className="offset-lg-2">
-            <TestimonialCarousel />
-            </MDBCol>
-        </MDBRow>
     </MDBContainer>
     </>
     
