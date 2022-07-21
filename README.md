@@ -4,7 +4,10 @@
 
 To run this project, we run the following:
 
+### `npm install react`
 ### `npm i mdb-react-ui-kit`
+### `npm install react-router-dom`
+
 ### `npm start`
 
 Runs the app in the development mode.\
