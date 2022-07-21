@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/WPCAT-Collge-React/static/css/main.061e4605.css",
+    "main.js": "/WPCAT-Collge-React/static/js/main.918af220.js",
+    "static/media/hole.jpeg": "/WPCAT-Collge-React/static/media/hole.8c517da66c38706076ad.jpeg",
+    "static/media/outdoor-fire.jpeg": "/WPCAT-Collge-React/static/media/outdoor-fire.283883ddc8f007db4ed3.jpeg",
+    "static/media/therapy_shed.jpeg": "/WPCAT-Collge-React/static/media/therapy_shed.2b0a07f044367db879ae.jpeg",
+    "static/media/hero_image.png": "/WPCAT-Collge-React/static/media/hero_image.07da412e8a42a2f4bc10.png",
+    "static/media/figurine_wall.jpeg": "/WPCAT-Collge-React/static/media/figurine_wall.95cdfcd38bac42e00bfa.jpeg",
+    "static/media/seated_area.jpeg": "/WPCAT-Collge-React/static/media/seated_area.0d69bb9d70e73a23aecf.jpeg",
+    "static/media/candle-stone.jpeg": "/WPCAT-Collge-React/static/media/candle-stone.ca14c30bfaa535bb874d.jpeg",
+    "static/media/tree.jpeg": "/WPCAT-Collge-React/static/media/tree.471da41b47110c5000eb.jpeg",
+    "static/media/clay-pot.jpeg": "/WPCAT-Collge-React/static/media/clay-pot.192fcdc73671b4e210a7.jpeg",
+    "static/media/room_view.jpeg": "/WPCAT-Collge-React/static/media/room_view.b3c297380362030afd5d.jpeg",
+    "static/media/painted_rock.jpeg": "/WPCAT-Collge-React/static/media/painted_rock.95d7b98981c9a4aafaac.jpeg",
+    "static/media/woodland.jpeg": "/WPCAT-Collge-React/static/media/woodland.c265f888c3d185d6caff.jpeg",
+    "static/media/logo.jpeg": "/WPCAT-Collge-React/static/media/logo.9a24c5bacdde4455ca3f.jpeg",
+    "index.html": "/WPCAT-Collge-React/index.html",
+    "main.061e4605.css.map": "/WPCAT-Collge-React/static/css/main.061e4605.css.map",
+    "main.918af220.js.map": "/WPCAT-Collge-React/static/js/main.918af220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061e4605.css",
+    "static/js/main.918af220.js"
+  ]
+}
