@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700&family=Playfair+Display:wght@400;500;600;700;800&display=swap');
+
+:root {
+	--dark-green:#384727;
+	--dark-green-transparent: rgba(56,71,39,0.4);
+	--green:#357560;
+	--gold:#CABDAF;
+	--transparent-gold: rgba(202,189,175,0.4);
+}
+.row>*{
+	padding-left:0;
+	padding-right:0;
+}
+h1 {
+	font-size: 2.6em;
+	font-weight: 700;
+	line-height: 60px;
+	font-family:'Playfair Display';
+}
+h2 {
+	font-family:"Nunito Sans";
+	text-transform: uppercase;
+	font-weight:200;
+	font-size:1.3rem;
+}
+h4 {
+	color:var(--dark-green);
+	font-family: "Nunito Sans";
+	text-transform:uppercase;
+	font-weight:200;
+	font-size:1.1rem;
+}
+h5 {
+	font-family:"Nunito Sans";
+	color:var(--dark-green);
+	font-size:1.2rem;
+}
+h6 {
+	font-size:0.9rem;
+	color:var(--green);
+	font-family:"Nunito Sans";
+}
+p {
+	font-family:"Nunito Sans";
+	font-weight:400;
+	font-size:1rem;
+}
+.btn {
+	background-color:var(--green)!important;
+	color:white;
+}
+.btn:hover {
+	color:white;
+	text-decoration: underline;
+}
+.dark-url {
+	color:white;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+.dark-url:hover{
+	color:white;
+}
+.background-color{
+	background-color:var(--green);
+    color:white;
+}
+.background-color-light{
+	background-color: var(--transparent-gold);
+}
+.contact-link{
+	color:white;
+}
+.contact-link:hover {
+	color:white;
+}

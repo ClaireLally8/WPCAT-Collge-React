@@ -1,0 +1,50 @@
+.overlay-text {
+	color:white;
+	text-shadow: 20px 20px 10px #000000;
+}
+.hero-image {
+	background: url(../images/hero_image.png) no-repeat center center!important;
+	height: 500px;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+.hero-outer {
+	width: 100%;
+	position: relative;
+}
+#cover-text{
+	letter-spacing: 2px;
+	position:absolute;
+	top: 30%;
+	left:35%;
+}
+.image-stack {
+    width:100%;
+    position:relative;
+	margin-left:2rem;
+}
+.stack-top {
+    position: absolute;
+    left: 30%;
+    width:60%;
+    top: 10%;
+}
+.overlay {
+	background-color: var(--dark-green-transparent);
+}
+.card {
+	border-radius: 0!important;
+	margin:10px;
+}
+@media (max-width:767px){
+	.stack-top {
+		position: relative;
+		width:100%;
+		left:0;
+	}
+	.image-stack{
+		margin-left:0;
+	}
+
+}

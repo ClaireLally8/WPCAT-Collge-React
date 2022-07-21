@@ -1,0 +1,6 @@
+.card .card-body .card-text{
+    color:var(----dark-green);
+}
+.card-subtitle{
+    color:var(--green)
+}
